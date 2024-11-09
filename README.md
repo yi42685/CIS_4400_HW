@@ -1,5 +1,4 @@
 # CIS_4400_HW
-Campaign Finance:
 
 ## Business requirement:
 Business Requirements: What is the distribution of the money campaign across donors/their employers.
@@ -39,6 +38,10 @@ The original data is collected by the city clerk and provided by the city of Aus
 
 
 ## Dimensional Modeling:
+
+
+<img width="510" alt="Screen Shot 2024-11-09 at 2 31 15 AM" src="https://github.com/user-attachments/assets/d24e1fdd-14aa-4eef-bba7-9a8f4b015c05">
+
 
 
 
